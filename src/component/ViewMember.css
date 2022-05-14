@@ -1,0 +1,31 @@
+.member-content img{
+    width: 40px;
+    filter: invert(100%);
+}
+.member-content {
+    width: 30%;
+    height: 400px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 15px rgb(255, 102, 0);
+    padding: 20px;
+    border-radius: 30px;
+    /* border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px; */
+    background-image: url('https://wallpaperim.net/_data/i/upload/2014/07/26/20140726112527-9b04bad1-la.jpg');
+    text-align: center;
+    font-family: monospace;
+    overflow: auto;
+}
+.member-content::-webkit-scrollbar {
+    display: none;
+}
+.back{
+    position: sticky;
+    bottom: 0px;
+    margin-left: -340px;
+    padding: 6px 10px;
+}
+.back:hover{
+    border: 1px solid white;
+    border-radius: 60px;
+}

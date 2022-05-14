@@ -1,0 +1,30 @@
+.logo {
+    width: 300px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+.logpage-content {
+    width: 30%;
+    height: 200px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 15px rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 30px;
+    /* border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px; */
+    background-image: url('https://wallpaperim.net/_data/i/upload/2014/07/26/20140726112527-9b04bad1-la.jpg');
+    text-align: center;
+    font-family: monospace;
+}
+
+.btn {
+    margin: 2px 10px;
+    width: 140px;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    padding: 30px;
+}

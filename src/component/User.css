@@ -1,0 +1,13 @@
+
+.user-content{
+    width: 30%;
+    height: 200px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 15px rgb(43, 255, 0);
+    padding: 20px;
+    border-radius: 30px;
+    /* border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px; */
+    background-image: url('https://wallpaperim.net/_data/i/upload/2014/07/26/20140726112527-9b04bad1-la.jpg');
+    text-align: center;
+}
